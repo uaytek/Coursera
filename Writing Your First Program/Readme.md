@@ -59,3 +59,5 @@ Percentage of  THOUGHT WAS HAVING HEART ATTACK, BUT DOCTOR SAID JUST NERVES OR P
 9    0.002578<br />
 2    0.665951<br />
 Name: S6Q3, dtype: float64<br />
+### Summary
+I used NESARC data for the program. There are 43093 rows and 3010 columns in data. I have used current and ex drnker values for drinking status and two columns for panic attack.  There are 4655 current or ex-drinkers who had experinced panic attack. %78 of them are current drinkers and %22 of them are ex-drinkes. All of them had panic attack and felt frieghtened/overwelmed, but %33 percent of these people thoght that it was a hearth attack but doctor said just nerves or panic attack.
